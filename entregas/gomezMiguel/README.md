@@ -65,7 +65,7 @@ Sigue las **convenciones estándar** del lenguaje y del equipo.
 ### Ejemplos en mis códigos
 |Ejemplo de Mala Aplicación de Estándares|Código|Proyecto|
 |-|-|-|
-| Demasiados Ifs que se podrían sustituir usando métodos estáticos | [💾](CódigosRescatados/001 Progra 1/Retos/Caracol.java) | Progra 1 - Caracol |
+| Demasiados Ifs que se podrían sustituir usando métodos estáticos | [💾](CódigosRescatados/001%20Progra%201/Retos/Caracol.java) | Progra 1 - Caracol |
 
 ---
 
@@ -79,7 +79,7 @@ Si haces algo de cierta manera, **hazlo siempre igual**.
 ### Ejemplos en mis códigos
 |Ejemplo de Mala Consistencia|Código|Proyecto|
 |-|-|-|
-| | | |
+| Error de consistencia en el nombrado de las variables | [💾](https://github.com/miguelgomez75/24-25-IdSw2/blob/29cf259fc4e273be97420fa338fc9d0f37ac964d/entregas/gomezMiguel/C%C3%B3digosRescatados/001%20Progra%201/Retos/WhacAMole.java#L8) | Progra 1 - WhacAMole |
 ---
 
 ## 6. Código muerto
@@ -92,7 +92,7 @@ Elimina el **código obsoleto o innecesario**.
 ### Ejemplos en mis códigos
 |Ejemplo de Código Muerto|Código|Proyecto|
 |-|-|-|
-| | | |
+| Entrada.close() se realiza dentro del else del if asi que solo se cierra si no se cumple la condición, quedando como código muerto | [💾](https://github.com/miguelgomez75/24-25-IdSw2/blob/29cf259fc4e273be97420fa338fc9d0f37ac964d/entregas/gomezMiguel/C%C3%B3digosRescatados/001%20Progra%201/Retos/Microrretos%203/Ecuacion2grado.java#L18) | Progra1 - Ecuacion2Grado |
 
 ---
 
@@ -105,7 +105,7 @@ Evita la **duplicación de código**.
 ### Ejemplos en mis códigos
 |Ejemplo de DRY|Código|Proyecto|
 |-|-|-|
-| | | |
+| Hay un método para imprimir cada tarjeta cuando sabiendo la lógica se podría simplificar y crearlas tú | [💾](CódigosRescatados/001%20Progra%201/Retos/Adivinación.java) | Progra 1 - Adivinación |
 
 
 ---
@@ -120,7 +120,7 @@ No programes funciones que **aún no necesitas**.
 ### Ejemplos en mis códigos
 |Ejemplo de YAGNI|Código|Proyecto|
 |-|-|-|
-| | | |
+| Else{} innecesario | [💾](https://github.com/miguelgomez75/24-25-IdSw2/blob/29cf259fc4e273be97420fa338fc9d0f37ac964d/entregas/gomezMiguel/C%C3%B3digosRescatados/001%20Progra%201/Ex%20Final/PacmanFinalV5.java#L204C9-L204C15) | Progra 1 - Pac-Man V5 |
 
 ---
 
