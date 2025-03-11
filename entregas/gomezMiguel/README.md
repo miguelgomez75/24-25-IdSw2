@@ -50,7 +50,8 @@ Un buen formato mejora la legibilidad y facilita la navegación del código.
 ### Ejemplos en mis códigos
 |Ejemplo de Mal Formato|Código|Proyecto|
 |-|-|-|
-| | | |
+| Indentación Inadecuada | [💾](https://github.com/miguelgomez75/24-25-IdSw2/blob/98bcc70be1e69a01732c90cbe5555bb3a1335d38/entregas/gomezMiguel/C%C3%B3digosRescatados/001%20Progra%201/Retos/Microrretos%201%20ASCII/Ascii4.java#L19) | Progra 1 - Microrreto Ascii 4 |
+| Linea de Código demasiado larga | [💾](https://github.com/miguelgomez75/24-25-IdSw2/blob/98bcc70be1e69a01732c90cbe5555bb3a1335d38/entregas/gomezMiguel/C%C3%B3digosRescatados/001%20Progra%201/Retos/Microrretos%202%20Variables/Notafinal.java#L19) | Progra 1 - Microrreto 2 Promedio |
 
 ---
 
@@ -64,7 +65,7 @@ Sigue las **convenciones estándar** del lenguaje y del equipo.
 ### Ejemplos en mis códigos
 |Ejemplo de Mala Aplicación de Estándares|Código|Proyecto|
 |-|-|-|
-| | | |
+| Demasiados Ifs que se podrían sustituir usando métodos estáticos | [💾](CódigosRescatados/001 Progra 1/Retos/Caracol.java) | Progra 1 - Caracol |
 
 ---
 
